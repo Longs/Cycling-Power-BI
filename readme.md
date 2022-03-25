@@ -16,7 +16,7 @@ Looking at the grouping of the embedding produced by the results for the 2020 Gi
 The combination of BGM clustering and T-SNE embedding seems to have worked well for this example. In the following plot the marker size indicates the rider's average gap to the winner in each stage: 
 
 
-[<img src="./giro_2020_size.png" width = 100%>]
+[<img src="./Giro_2020_size.png" width = 100%>]
 
 Group 3 have the smallest markers and so are the best riders
 
